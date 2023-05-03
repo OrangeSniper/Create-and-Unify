@@ -1,0 +1,19 @@
+[13:15:48.772][INFO]: Successfully injected RecipeFS file system
+[13:15:49.098][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[13:15:49.105][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[13:15:49.110][INFO]: Successfully identified and loaded plugin createtweaker:main
+[13:15:54.147][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[13:15:54.158][INFO]: - 'crafttweaker' at version '10.1.41'
+[13:15:54.158][INFO]: - 'createtweaker' at version '3.0.0.5'
+[13:17:43.679][INFO]: Started loading scripts for loader 'initialize'
+[13:17:44.474][INFO]: Compiling and executing scripts
+[13:17:44.581][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[13:17:44.783][INFO]: Execution for loader 'initialize' completed successfully
+[13:30:00.777][INFO]: Started loading scripts for loader 'tags'
+[13:30:00.836][INFO]: Compiling and executing scripts
+[13:30:00.891][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[13:30:00.912][INFO]: Execution for loader 'tags' completed successfully
+[13:30:05.338][INFO]: Started loading scripts for loader 'crafttweaker'
+[13:30:05.370][INFO]: Compiling and executing scripts
+[13:30:06.336][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[13:30:06.353][INFO]: Execution for loader 'crafttweaker' completed successfully

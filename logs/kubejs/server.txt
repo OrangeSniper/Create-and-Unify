@@ -1,0 +1,42 @@
+[13:29:51] [INFO ] server_scripts:script.js:3: Hello, World! (You will see this line every time server resources reload)
+[13:29:51] [INFO ] Loaded script server_scripts:script.js in 0.044 s
+[13:29:51] [INFO ] Loaded 1/1 KubeJS server scripts in 0.133 s
+[13:29:51] [INFO ] Scripts loaded
+[13:29:51] [INFO ] Scanning recipes...
+[13:30:00] [WARN ] Failed to parse recipe 'create:cutting/compat/byg/mangrove_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:mangrove_log'
+[13:30:00] [WARN ] Failed to parse recipe create:cutting/compat/byg/mangrove_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'byg:mangrove_log'
+[13:30:01] [WARN ] Failed to parse recipe 'create_confectionery:chocolate_recipe_6[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:chocolate_bricks_wall'
+[13:30:01] [WARN ] Failed to parse recipe create_confectionery:chocolate_recipe_6[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:chocolate_bricks_wall'
+[13:30:01] [WARN ] Failed to parse recipe 'createindustry:colored_concrete/full_block/pink_concrete[create:item_application]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:_dye'
+[13:30:01] [WARN ] Failed to parse recipe createindustry:colored_concrete/full_block/pink_concrete[create:item_application]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:_dye'
+[13:30:01] [WARN ] Failed to parse recipe 'alexsdelight:barbecue_on_a_stick[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_rib'
+[13:30:01] [WARN ] Failed to parse recipe alexsdelight:barbecue_on_a_stick[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_rib'
+[13:30:01] [WARN ] Failed to parse recipe 'create_sa:heat_engine_recipe[create:sequenced_assembly]': {"item":"minecraft:copper_nugget","chance":2.0} is not a valid result!
+[13:30:01] [WARN ] Failed to parse recipe 'create:cutting/compat/byg/stripped_mangrove_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_log'
+[13:30:01] [WARN ] Failed to parse recipe create:cutting/compat/byg/stripped_mangrove_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_log'
+[13:30:01] [WARN ] Failed to parse recipe 'create_confectionery:ruby_chocolate_recipe_6[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:ruby_chocolate_brick_wall'
+[13:30:01] [WARN ] Failed to parse recipe create_confectionery:ruby_chocolate_recipe_6[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:ruby_chocolate_brick_wall'
+[13:30:01] [WARN ] Failed to parse recipe 'createindustry:item_application/liquid_rebar__concrete[create:item_application]': {"item":"createindustry:liquid_rebar_concrete"} is not a valid result!
+[13:30:01] [WARN ] Failed to parse recipe 'create_confectionery:black_chocolate_recipe_6[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:black_chocolate_bricks_wall'
+[13:30:01] [WARN ] Failed to parse recipe create_confectionery:black_chocolate_recipe_6[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:black_chocolate_bricks_wall'
+[13:30:01] [WARN ] Failed to parse recipe 'create_sa:steam_engine_recipe[create:sequenced_assembly]': {"item":"create:crushed_brass_ore","chance":2.0} is not a valid result!
+[13:30:01] [WARN ] Failed to parse recipe 'create:cutting/compat/byg/mangrove_wood[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:mangrove_wood'
+[13:30:01] [WARN ] Failed to parse recipe create:cutting/compat/byg/mangrove_wood[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'byg:mangrove_wood'
+[13:30:01] [WARN ] Failed to parse recipe 'createteleporters:tp_convert_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'createteleporters:deleted_mod_element'
+[13:30:01] [WARN ] Failed to parse recipe createteleporters:tp_convert_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'createteleporters:deleted_mod_element'
+[13:30:01] [WARN ] Failed to parse recipe 'create:compat/byg/crushing/lignite_ore[create:crushing]': {"item":"byg:lignite","count":2} is not a valid result!
+[13:30:01] [WARN ] Failed to parse recipe 'create_confectionery:white_chocolate_recipe_6[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:white_chocolate_bricks_wall'
+[13:30:01] [WARN ] Failed to parse recipe create_confectionery:white_chocolate_recipe_6[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:white_chocolate_bricks_wall'
+[13:30:01] [WARN ] Failed to parse recipe 'createindustry:colored_concrete/full_block/orange_concrete[create:item_application]': {"item":"createindustry:oranger_concrete"} is not a valid result!
+[13:30:01] [WARN ] Failed to parse recipe 'create_things_and_misc:schematic_chair[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
+[13:30:01] [WARN ] Failed to parse recipe create_things_and_misc:schematic_chair[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
+[13:30:01] [WARN ] Failed to parse recipe 'create_sa:magma_cream_recipe[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:slime'
+[13:30:01] [WARN ] Failed to parse recipe create_sa:magma_cream_recipe[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:slime'
+[13:30:01] [WARN ] Failed to parse recipe 'create_sa:hydraulic_engine_recipe[create:sequenced_assembly]': {"item":"minecraft:copper_nugget","chance":2.0} is not a valid result!
+[13:30:02] [WARN ] Failed to parse recipe 'create:cutting/compat/byg/stripped_mangrove_wood[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
+[13:30:02] [WARN ] Failed to parse recipe create:cutting/compat/byg/stripped_mangrove_wood[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
+[13:30:02] [INFO ] Found 10122 recipes and 0 failed recipes in 1.304 s
+[13:30:02] [INFO ] Posted recipe events in 4.147 ms
+[13:30:02] [INFO ] Modified & removed recipes in 466.9 ms
+[13:30:02] [INFO ] Added recipes in 802.4 μs
+[13:30:02] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes

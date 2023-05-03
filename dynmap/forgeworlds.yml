@@ -1,0 +1,47 @@
+%YAML 1.1
+---
+worlds:
+-   sealevel: 63
+    nether: false
+    miny: -32
+    name: twilightforest_twilight_forest
+    the_end: false
+    title: twilightforest_twilight_forest
+    height: 288
+-   sealevel: 63
+    nether: false
+    miny: -64
+    name: gamering
+    the_end: false
+    title: gamering
+    height: 384
+-   sealevel: 63
+    nether: false
+    miny: 0
+    name: DIM1
+    the_end: true
+    title: DIM1
+    height: 256
+-   sealevel: 63
+    nether: true
+    miny: 0
+    name: DIM-1
+    the_end: false
+    title: DIM-1
+    height: 256
+-   sealevel: 63
+    nether: false
+    miny: 0
+    name: createteleporters_corrupt_dimension
+    the_end: false
+    title: createteleporters_corrupt_dimension
+    height: 256
+-   sealevel: 63
+    nether: false
+    miny: 0
+    name: createteleporters_pocket_dimension
+    the_end: false
+    title: createteleporters_pocket_dimension
+    height: 256
+useSaveFolderAsName: true
+maxWorldHeight: 320
