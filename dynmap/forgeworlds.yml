@@ -14,7 +14,7 @@ worlds:
     name: gamering
     the_end: false
     title: gamering
-    height: 384
+    height: 320
 -   sealevel: 63
     nether: false
     miny: 0
@@ -43,5 +43,19 @@ worlds:
     the_end: false
     title: createteleporters_pocket_dimension
     height: 256
+-   sealevel: 63
+    nether: false
+    miny: -64
+    name: getegg
+    the_end: false
+    title: getegg
+    height: 384
+-   sealevel: 63
+    nether: false
+    miny: -64
+    name: mining_dimension_mining
+    the_end: false
+    title: mining_dimension_mining
+    height: 384
 useSaveFolderAsName: true
 maxWorldHeight: 320

@@ -165,3 +165,7 @@
 		[entries.wood_type.farmersdelight]
 			cabinet = true
 
+		[entries.wood_type.dramaticdoors]
+			short_door = true
+			tall_door = true
+

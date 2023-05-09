@@ -1,6 +1,15 @@
 XaeroWaypoints*/
+XaeroWorldMap*/
 shaderpacks/
 saves/
 logs/
 crash-reports/
 minecraftinstance.json
+config/
+screenshots/
+dynmap/
+usercache.json
+DiscordIntegration-Data/
+rhino.local.properties
+usernamecache.json
+.mixin.out/
