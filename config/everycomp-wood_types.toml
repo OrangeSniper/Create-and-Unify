@@ -140,6 +140,9 @@
 			hedge = true
 			leaf_carpet = true
 
+		[entries.leaves_type.cfm]
+			hedge = true
+
 	[entries.wood_type]
 
 		[entries.wood_type.quark]
@@ -168,4 +171,40 @@
 		[entries.wood_type.dramaticdoors]
 			short_door = true
 			tall_door = true
+
+		[entries.wood_type.cfm]
+			stripped_kitchen_sink_light = true
+			table = true
+			coffee_table = true
+			park_bench = true
+			stripped_kitchen_counter = true
+			stripped_cabinet = true
+			kitchen_drawer = true
+			desk = true
+			stripped_bedside_cabinet = true
+			desk_cabinet = true
+			stripped_kitchen_drawer = true
+			upgraded_fence = true
+			kitchen_sink_dark = true
+			stripped_desk_cabinet = true
+			kitchen_counter = true
+			upgraded_gate = true
+			stripped_park_bench = true
+			cabinet = true
+			stripped_table = true
+			mail_box = true
+			blinds = true
+			stripped_chair = true
+			crate = true
+			chair = true
+			stripped_mail_box = true
+			stripped_blinds = true
+			stripped_kitchen_sink_dark = true
+			bedside_cabinet = true
+			stripped_upgraded_fence = true
+			stripped_desk = true
+			kitchen_sink_light = true
+			stripped_coffee_table = true
+			stripped_crate = true
+			stripped_upgraded_gate = true
 
